@@ -1,0 +1,10 @@
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\EvaldoCalculadora\EvaldoCalculadora\bin\Debug\EvaldoCalculadora.exe.config
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\EvaldoCalculadora\EvaldoCalculadora\bin\Debug\EvaldoCalculadora.exe
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\EvaldoCalculadora\EvaldoCalculadora\bin\Debug\EvaldoCalculadora.pdb
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\EvaldoCalculadora\EvaldoCalculadora\bin\Debug\EvaldoCalculadora.xml
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\EvaldoCalculadora\EvaldoCalculadora\obj\Debug\EvaldoCalculadora.FrmPrincipal.resources
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\EvaldoCalculadora\EvaldoCalculadora\obj\Debug\EvaldoCalculadora.Resources.resources
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\EvaldoCalculadora\EvaldoCalculadora\obj\Debug\EvaldoCalculadora.vbproj.GenerateResource.Cache
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\EvaldoCalculadora\EvaldoCalculadora\obj\Debug\EvaldoCalculadora.exe
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\EvaldoCalculadora\EvaldoCalculadora\obj\Debug\EvaldoCalculadora.xml
+C:\Users\Evaldo\Documents\Visual Studio 2012\Projects\EvaldoCalculadora\EvaldoCalculadora\obj\Debug\EvaldoCalculadora.pdb

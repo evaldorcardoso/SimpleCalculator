@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+EvaldoCalculadora
+</name>
+</assembly>
+<members>
+<member name="M:EvaldoCalculadora.FrmPrincipal.txtValor1_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+Faz a validação de valores numéricos no txtValor1
+
+</member><member name="M:EvaldoCalculadora.FrmPrincipal.txtValor2_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+Faz a validação de valores numéricos no txtValor2
+
+</member><member name="M:EvaldoCalculadora.FrmPrincipal.cbxOperacao_SelectedValueChanged(System.Object,System.EventArgs)">
+Controla se alguma opção do comboBox foi selecionada, se sim habilita o botão calcular e desabilita mensagem atenção
+
+</member><member name="M:EvaldoCalculadora.FrmPrincipal.btnCalcular_Click(System.Object,System.EventArgs)">
+Ação de clique do btnCalcular
+
+</member><member name="M:EvaldoCalculadora.FrmPrincipal.btnSair_Click(System.Object,System.EventArgs)">
+Ação do clique no btnSair
+
+</member><member name="P:EvaldoCalculadora.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:EvaldoCalculadora.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:EvaldoCalculadora.My.Resources.Resources._1362904501_Other_Antivirus_Software">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:EvaldoCalculadora.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
